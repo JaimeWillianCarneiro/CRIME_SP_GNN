@@ -1,0 +1,14 @@
+{
+    "processed_dir": "data/processed/sp/celulares_r3",
+    "method": "cep4",
+    "k": 47,
+    "train_end": "2024-07-01",
+    "min_train_crimes": 5,
+    "seed": 0,
+    "nodes_without_cep_filled_spatially": 147,
+    "size_min": 1,
+    "size_median": 15.0,
+    "size_max": 167,
+    "edges": 120,
+    "connected": true
+}

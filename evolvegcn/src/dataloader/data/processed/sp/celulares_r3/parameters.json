@@ -1,0 +1,8 @@
+{
+    "graph": "/home/juanpablo/datasets/saopaulo/crimerecords/graph_san_reduced3.pickle",
+    "out": "data/processed/sp/celulares_r3",
+    "polygon": "sp-centro",
+    "start": "2022-01-01",
+    "end": "2025-12-31",
+    "max_distance": 50
+}

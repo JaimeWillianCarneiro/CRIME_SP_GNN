@@ -1,0 +1,17 @@
+{
+    "processed_dir": "data/processed/sp/celulares_r3",
+    "method": "corr",
+    "k": 47,
+    "train_end": "2024-07-01",
+    "min_train_crimes": 5,
+    "seed": 0,
+    "train_weeks": 131,
+    "active_nodes": 1334,
+    "low_activity_nodes_filled_spatially": 766,
+    "mean_offdiag_corr": -0.0007465378153610891,
+    "size_min": 17,
+    "size_median": 47.0,
+    "size_max": 74,
+    "edges": 950,
+    "connected": true
+}

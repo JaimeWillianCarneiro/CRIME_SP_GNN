@@ -1,0 +1,13 @@
+{
+    "processed_dir": "data/processed/sp/celulares_r3",
+    "method": "kmeans",
+    "k": 198,
+    "train_end": "2024-07-01",
+    "min_train_crimes": 5,
+    "seed": 0,
+    "size_min": 3,
+    "size_median": 10.0,
+    "size_max": 22,
+    "edges": 484,
+    "connected": true
+}
